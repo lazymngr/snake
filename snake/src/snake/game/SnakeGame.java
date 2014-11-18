@@ -33,6 +33,8 @@ public class SnakeGame {
 
 	public SnakeGame(){
 		
+		//test 1
+		
 		deltaTime = 200;
 		running = true;
 		snakeTurnBlocked = false;
